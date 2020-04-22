@@ -2,7 +2,7 @@
   "name": "profile-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AMITABUKSIS.github.io/monsters-relodex",
+  "homepage": "http://AmitAbuksis.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
